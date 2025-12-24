@@ -1,0 +1,10 @@
+{
+    "modId": "todomod",
+    "isPublished": false,
+    "versions": {
+        "1.0": {
+            "isPublished": false,
+            "name": null
+        }
+    }
+}
