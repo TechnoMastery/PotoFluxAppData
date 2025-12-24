@@ -1,8 +1,7 @@
-{
-    "members": [
-        {
-            "username": "minheur",
-            "rank": "chef"
-        }
-    ]
-}
+[
+    {
+        "username": "minheur2000",
+        "role": "chef",
+        "perms": []
+    }
+]
