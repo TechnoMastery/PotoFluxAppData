@@ -4,7 +4,10 @@
     "versions": {
         "1.0": {
             "isPublished": false,
-            "fileName": null
+            "fileName": null,
+            "ptfVersions": [
+                "5.14"
+            ]
         }
     }
 }
