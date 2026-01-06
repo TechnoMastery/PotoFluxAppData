@@ -1,0 +1,12 @@
+{
+    "modId": "card_learning",
+    "isPublished": false,
+    "versions": {
+        "1.0": {
+            "isPublished": false,
+            "fileName": null,
+            "ptfVersions": []
+        }
+    },
+    "customData": []
+}
