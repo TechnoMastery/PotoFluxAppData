@@ -2,12 +2,14 @@
     "versions": {
         "2.1": [
             "6.7",
-            "6.8"
+            "6.8",
+            "6.9"
         ]
     },
     "lastestForPtf": {
         "6.7": "2.1",
-        "6.8": "2.1"
+        "6.8": "2.1",
+        "6.9": "2.1"
     },
     "installUrl": "https://github.com/TechnoMastery/PotoFlux-todomod/releases/tag/"
 }
