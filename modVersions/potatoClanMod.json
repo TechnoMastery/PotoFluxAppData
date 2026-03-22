@@ -1,0 +1,11 @@
+{
+    "versions": {
+        "1.0": [
+            "6.9"
+        ]
+    },
+    "lastestForPtf": {
+        "6.9": "1.0"
+    },
+    "installUrl": "https://github.com/Minheur2000/potatoClanSecretMod/releases/tag/"
+}
