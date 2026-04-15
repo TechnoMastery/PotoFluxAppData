@@ -8,13 +8,15 @@
         "1.4": [
             "6.7",
             "6.8",
-            "6.9"
+            "6.9",
+            "6.10"
         ]
     },
     "lastestForPtf": {
         "6.7": "1.4",
         "6.8": "1.4",
-        "6.9": "1.4"
+        "6.9": "1.4",
+        "6.10": "1.4"
     },
     "installUrl": "https://github.com/Minheur2000/encrypMod/releases/tag/"
 }
