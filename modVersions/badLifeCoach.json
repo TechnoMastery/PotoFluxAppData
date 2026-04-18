@@ -1,11 +1,15 @@
 {
     "versions": {
         "1.0": [
-            "6.10"
+            "6.10",
+            "6.9",
+            "6.8"
         ]
     },
     "lastestForPtf": {
-        "6.10": "1.0"
+        "6.10": "1.0",
+        "6.9": "1.0",
+        "6.8": "1.0"
     },
     "installUrl": "https://github.com/TechnoMastery/bad-life-coach/releases/tag/"
 }
