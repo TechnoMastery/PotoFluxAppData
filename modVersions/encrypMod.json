@@ -32,26 +32,26 @@
     "docLink": "https://technomastery.github.io/PotoFluxAppData/modDoc/encrypMod/",
     "jarName": "encrypMod-",
     "tempVersions": {
-        "1.3": {
+        "2.0": {
             "compatList": [
-                "6.7",
-                "6.8",
-                "6.9"
+                "7.0"
             ]
         },
         "1.4": {
             "compatList": [
-                "6.7",
-                "6.8",
-                "6.9",
-                "6.10",
+                "6.12",
                 "6.11",
-                "6.12"
+                "6.10",
+                "6.9",
+                "6.8",
+                "6.7"
             ]
         },
-        "2.0": {
+        "1.3": {
             "compatList": [
-                "7.0"
+                "6.9",
+                "6.8",
+                "6.7"
             ]
         }
     }

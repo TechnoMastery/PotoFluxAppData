@@ -26,21 +26,21 @@
     "link": "https://github.com/TechnoMastery/PotoFlux-cardLearning/",
     "jarName": "PotoFlux-cardLearning-",
     "tempVersions": {
-        "2.6": {
-            "hasOnlineDoc": false,
-            "compatList": [
-                "6.7",
-                "6.8",
-                "6.9",
-                "6.10",
-                "6.11",
-                "6.12"
-            ]
-        },
         "3.0": {
             "hasOnlineDoc": false,
             "compatList": [
                 "7.0"
+            ]
+        },
+        "2.6": {
+            "hasOnlineDoc": false,
+            "compatList": [
+                "6.12",
+                "6.11",
+                "6.10",
+                "6.9",
+                "6.8",
+                "6.7"
             ]
         }
     }
