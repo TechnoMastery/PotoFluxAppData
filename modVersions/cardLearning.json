@@ -27,9 +27,7 @@
     "jarName": "PotoFlux-cardLearning-",
     "tempVersions": {
         "2.6": {
-            "hasSources": true,
             "hasOnlineDoc": false,
-            "hasDocJar": true,
             "compatList": [
                 "6.7",
                 "6.8",
@@ -40,9 +38,7 @@
             ]
         },
         "3.0": {
-            "hasSources": true,
             "hasOnlineDoc": false,
-            "hasDocJar": true,
             "compatList": [
                 "7.0"
             ]
