@@ -23,6 +23,7 @@
     },
     "installUrl": "https://github.com/TechnoMastery/PotoFlux-cardLearning/releases/tag/",
     "releaseLink": "https://github.com/TechnoMastery/PotoFlux-cardLearning/releases",
+    "jarName": "PotoFlux-cardLearning-",
     "tempVersions": {
         "2.6": {
             "hasSources": true,
