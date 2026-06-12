@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.minheur.potoflux_cardLearning"},{"l":"net.minheur.potoflux_cardLearning.tabs"},{"l":"net.minheur.potoflux_cardLearning.tabs.all"},{"l":"net.minheur.potoflux_cardLearning.translations"},{"l":"net.minheur.potoflux_cardLearning.utility"}];updateSearchResults();

@@ -24,10 +24,10 @@
     },
     "installUrl": "https://github.com/TechnoMastery/PotoFlux-cardLearning/releases/tag/",
     "link": "https://github.com/TechnoMastery/PotoFlux-cardLearning/",
+    "docLink": "https://technomastery.github.io/PotoFluxAppData/modDoc/cardLearning/",
     "jarName": "PotoFlux-cardLearning-",
     "tempVersions": {
         "3.0": {
-            "hasOnlineDoc": false,
             "compatList": [
                 "7.0"
             ]
