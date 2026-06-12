@@ -1,4 +1,5 @@
 {
+    "owner": "Minheur2000",
     "versions": {
         "2.6": [
             "6.7",
@@ -22,7 +23,7 @@
         "7.0": "3.0"
     },
     "installUrl": "https://github.com/TechnoMastery/PotoFlux-cardLearning/releases/tag/",
-    "releaseLink": "https://github.com/TechnoMastery/PotoFlux-cardLearning/releases",
+    "link": "https://github.com/TechnoMastery/PotoFlux-cardLearning/",
     "jarName": "PotoFlux-cardLearning-",
     "tempVersions": {
         "2.6": {
