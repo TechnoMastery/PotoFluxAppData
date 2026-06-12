@@ -42,6 +42,32 @@
                 "6.8",
                 "6.7"
             ]
+        },
+        "2.5": {},
+        "2.4": {
+            "hasOnlineDoc": false,
+            "hasSources": false,
+            "hasDocJar": false
+        },
+        "2.3": {
+            "hasOnlineDoc": false,
+            "hasSources": false,
+            "hasDocJar": false
+        },
+        "2.2": {
+            "hasOnlineDoc": false,
+            "hasSources": false,
+            "hasDocJar": false
+        },
+        "2.1": {
+            "hasOnlineDoc": false,
+            "hasSources": false,
+            "hasDocJar": false
+        },
+        "2.0": {
+            "hasOnlineDoc": false,
+            "hasSources": false,
+            "hasDocJar": false
         }
     }
 }
