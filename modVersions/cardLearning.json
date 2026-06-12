@@ -38,6 +38,14 @@
                 "6.11",
                 "6.12"
             ]
+        },
+        "3.0": {
+            "hasSources": true,
+            "hasOnlineDoc": false,
+            "hasDocJar": true,
+            "compatList": [
+                "7.0"
+            ]
         }
     }
 }
