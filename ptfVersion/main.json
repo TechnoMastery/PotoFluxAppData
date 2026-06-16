@@ -1,3 +1,47 @@
 {
-    "lastestVersion": "7.0"
+    "lastestVersion": "7.0",
+    "releasePage": "https://github.com/TechnoMastery/PotoFlux/releases/",
+    "versions": {
+        "7.0": {
+            "type": "Release",
+            "title": "JavaFX & more"
+        },
+        "6.12": { "type": "Patch" },
+        "6.11": {
+            "type": "Release",
+            "title": "Accounts & Menus"
+        },
+        "6.10": { "type": "Release" },
+        "6.9": { "type": "Release" },
+        "6.8": { "type": "Release" },
+        "6.7": { "type": "Release" },
+        "6.6": { "type": "Release" },
+        "6.5": { "type": "Release" },
+        "6.4": { "type": "Release", "hasSources": false },
+        "6.3": { "type": "Release", "hasSources": false },
+        "6.2": { "type": "Release", "hasSources": false },
+        "6.1": { "type": "Release", "hasSources": false },
+        "6.0": { "type": "Release", "hasSources": false },
+        "5.16": { "type": "Pre-Release", "hasSources": false },
+        "5.15": { "type": "Pre-Release", "hasSources": false },
+        "5.14": { "type": "Pre-Release", "hasSources": false },
+        "5.13": { "type": "Pre-Release", "hasSources": false },
+        "5.12": { "type": "Pre-Release", "hasSources": false },
+        "5.11": { "type": "Pre-Release", "hasSources": false },
+        "5.10": { "type": "Pre-Release", "hasSources": false },
+        "5.9": { "type": "Pre-Release", "hasSources": false },
+        "5.8": { "type": "Pre-Release", "hasSources": false },
+        "5.7": { "type": "Pre-Release", "hasSources": false },
+        "5.6": { "type": "Pre-Release", "hasSources": false },
+        "5.5": { "type": "Release", "hasSources": false },
+        "5.4": { "type": "Release", "hasSources": false },
+        "5.3": { "type": "Release", "hasSources": false },
+        "5.2": { "type": "Release", "hasSources": false },
+        "5.1": { "type": "Release", "hasSources": false },
+        "5.0": { "type": "Release", "hasSources": false },
+        "4.3": { "type": "Beta", "hasSources": false },
+        "3.0": { "type": "Beta", "hasSources": false },
+        "3.2": { "type": "Beta", "hasSources": false },
+        "2.0": { "type": "Beta", "hasSources": false }
+    }
 }
