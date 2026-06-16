@@ -7,9 +7,13 @@
             "6.10",
             "6.9",
             "6.8"
+        ],
+        "2.0": [
+            "7.0"
         ]
     },
     "lastestForPtf": {
+        "7.0": "2.0",
         "6.12": "1.0",
         "6.11": "1.0",
         "6.10": "1.0",
@@ -21,6 +25,12 @@
     "docLink": "https://technomastery.github.io/PotoFluxAppData/modDoc/badlifecoach/",
     "jarName": "bad-life-coach-",
     "tempVersions": {
+        "2.0": {
+            "hasOnlineDoc": false,
+            "compatList": [
+                "7.0"
+            ]
+        },
         "1.0": {
             "compatList": [
                 "6.12",
