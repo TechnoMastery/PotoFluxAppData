@@ -8,12 +8,13 @@
         },
         "7.0": {
             "type": "Release",
-            "title": "JavaFX & more"
+            "title": "JavaFX & more",
+            "isOldRc": true
         },
         "6.12": { "type": "Patch" },
         "6.11": {
             "type": "Release",
-            "title": "Accounts & Menus"
+            "title": "Accounts & Menus", "isOldRc": true
         },
         "6.10": { "type": "Release" },
         "6.9": { "type": "Release" },
