@@ -1,6 +1,6 @@
 {
     "owner": "Benny232",
-    "versions": {
+    "versions-old": {
         "1.0": [
             "6.12",
             "6.11",
@@ -24,7 +24,7 @@
     "link": "https://github.com/TechnoMastery/bad-life-coach/",
     "docLink": "https://technomastery.github.io/PotoFluxAppData/modDoc/badlifecoach/",
     "jarName": "bad-life-coach-",
-    "tempVersions": {
+    "versions": {
         "2.0": {
             "hasOnlineDoc": false,
             "compatList": [
