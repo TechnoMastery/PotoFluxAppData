@@ -1,6 +1,6 @@
 {
     "owner": "Minheur2000",
-    "versions": {
+    "versions-old": {
         "2.6": [
             "6.7",
             "6.8",
@@ -26,7 +26,7 @@
     "link": "https://github.com/TechnoMastery/PotoFlux-cardLearning/",
     "docLink": "https://technomastery.github.io/PotoFluxAppData/modDoc/cardLearning/",
     "jarName": "PotoFlux-cardLearning-",
-    "tempVersions": {
+    "versions": {
         "3.0": {
             "compatList": [
                 "7.0"
