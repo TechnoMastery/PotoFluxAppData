@@ -1,6 +1,6 @@
 {
     "owner": "Minheur2000",
-    "versions": {
+    "versions-old": {
         "1.3": [
             "6.7",
             "6.8",
@@ -31,7 +31,7 @@
     "link": "https://github.com/Minheur2000/encrypMod/",
     "docLink": "https://technomastery.github.io/PotoFluxAppData/modDoc/encrypMod/",
     "jarName": "encrypMod-",
-    "tempVersions": {
+    "versions": {
         "2.0": {
             "compatList": [
                 "7.0"
