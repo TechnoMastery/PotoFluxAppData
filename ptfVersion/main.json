@@ -38,10 +38,10 @@
         "5.3": { "type": "Release", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false },
         "5.2": { "type": "Release", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false },
         "5.1": { "type": "Release", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false },
-        "5.0": { "type": "Release", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false },
-        "4.3": { "type": "Alpha", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false },
-        "3.0": { "type": "Alpha", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false },
-        "3.2": { "type": "Alpha", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false },
-        "2.0": { "type": "Alpha", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false }
+        "5.0": { "type": "Release", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false, "hasMsi": false },
+        "4.3": { "type": "Alpha", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false, "hasMsi": false },
+        "3.0": { "type": "Alpha", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false, "hasMsi": false },
+        "3.2": { "type": "Alpha", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false, "hasMsi": false },
+        "2.0": { "type": "Alpha", "hasSources": false, "hasOnlineDoc":  false, "hasDocJar": false, "hasMsi": false }
     }
 }
