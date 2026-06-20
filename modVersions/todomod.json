@@ -1,6 +1,6 @@
 {
     "owner": "Minheur2000",
-    "versions": {
+    "versions-old": {
         "2.1": [
             "6.7",
             "6.8",
@@ -21,7 +21,7 @@
     "installUrl": "https://github.com/TechnoMastery/PotoFlux-todomod/releases/tag/",
     "link": "https://github.com/TechnoMastery/PotoFlux-todomod/",
     "jarName": "PotoFlux-todomod-",
-    "tempVersions": {
+    "versions": {
         "2.1": {
             "hasOnlineDoc": false,
             "compatList": [
