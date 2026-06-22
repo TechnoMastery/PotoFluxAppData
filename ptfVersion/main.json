@@ -2,6 +2,11 @@
     "lastestVersion": "7.1",
     "releasePage": "https://github.com/TechnoMastery/PotoFlux/releases/",
     "versions": {
+        "7.3": {
+            "type": "Release",
+            "hasOnlineDoc": false,
+            "isOldRc": false
+        },
         "7.2": {
             "type": "Release",
             "hasOnlineDoc": false,
