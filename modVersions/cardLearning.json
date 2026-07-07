@@ -8,7 +8,9 @@
         "6.11": "2.6",
         "6.12": "2.6",
         "7.0": "3.0",
-        "7.1": "3.0"
+        "7.1": "3.0",
+        "7.2": "3.0",
+        "7.3": "3.0"
     },
     "installUrl": "https://github.com/TechnoMastery/PotoFlux-cardLearning/releases/tag/",
     "link": "https://github.com/TechnoMastery/PotoFlux-cardLearning/",
@@ -17,6 +19,8 @@
     "versions": {
         "3.0": {
             "compatList": [
+                "7.3",
+                "7.2",
                 "7.1",
                 "7.0"
             ]

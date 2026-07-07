@@ -8,7 +8,9 @@
         "6.11": "1.4",
         "6.12": "1.4",
         "7.0": "2.0",
-        "7.1": "2.0"
+        "7.1": "2.0",
+        "7.2": "2.0",
+        "7.3": "2.0"
     },
     "installUrl": "https://github.com/Minheur2000/encrypMod/releases/tag/",
     "link": "https://github.com/Minheur2000/encrypMod/",
@@ -17,6 +19,8 @@
     "versions": {
         "2.0": {
             "compatList": [
+                "7.3",
+                "7.2",
                 "7.1",
                 "7.0"
             ]
