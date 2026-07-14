@@ -4,7 +4,6 @@
     "versions": {
         "8.0.0": {
             "type": "Release",
-            "hasOnlineDoc": false,
             "hasMsi": false
         },
         "7.3": { "type": "Release", "hasRpm": false },
