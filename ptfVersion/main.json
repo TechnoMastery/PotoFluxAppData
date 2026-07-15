@@ -3,8 +3,7 @@
     "releasePage": "https://github.com/TechnoMastery/PotoFlux/releases/",
     "versions": {
         "8.0.0": {
-            "type": "Release",
-            "hasMsi": false
+            "type": "Release"
         },
         "7.3": { "type": "Release", "hasRpm": false },
         "7.2": {
