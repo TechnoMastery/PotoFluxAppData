@@ -1,7 +1,11 @@
 {
-    "lastestVersion": "8.0.0",
+    "lastestVersion": "8.0.1",
     "releasePage": "https://github.com/TechnoMastery/PotoFlux/releases/",
     "versions": {
+        "8.0.1": {
+            "type": "Patch",
+            "hasMsi": false
+        },
         "8.0.0": {
             "type": "Release"
         },
