@@ -1,0 +1,39 @@
+{
+  "owner": "Minheur2000",
+  "lastestForPtf": {
+    "8.0.1": "1.3",
+    "8.0.0": "1.1"
+  },
+  "installUrl": "https://github.com/Minheur2000/keep-focus/releases/tag/",
+  "link": "https://github.com/Minheur2000/keep-focus/",
+  "docLink": "https://technomastery.github.io/PotoFluxAppData/modDoc/keepFocus/",
+  "jarName": "keep-focus-",
+  "versions": {
+    "1.3": {
+      "compatList": [
+        "8.0.1"
+      ],
+      "hasOnlineDoc": false
+    },
+    "1.2": {
+      "compatList": [
+        "8.0.1"
+      ],
+      "hasOnlineDoc": false
+    },
+    "1.1": {
+      "compatList": [
+        "8.0.1",
+        "8.0.0"
+      ],
+      "hasOnlineDoc": false
+    },
+    "1.0": {
+      "compatList": [
+        "8.0.1",
+        "8.0.0"
+      ],
+      "hasOnlineDoc": false
+    }
+  }
+}
