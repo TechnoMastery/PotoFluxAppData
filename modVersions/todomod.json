@@ -1,4 +1,6 @@
 {
+    "id": "todomod",
+    "displayName": "Todo Mod",
     "owner": "Minheur2000",
     "lastestForPtf": {
         "6.7": "2.1",

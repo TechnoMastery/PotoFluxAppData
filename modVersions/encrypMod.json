@@ -1,4 +1,6 @@
 {
+    "id": "encrypmod",
+    "displayName": "EncrypMod",
     "owner": "Minheur2000",
     "lastestForPtf": {
         "6.7": "1.4",

@@ -1,4 +1,7 @@
 {
+    "link": "LINK TO GITHUB PROJECT",
+    "docLink": "LINK TO YOUR JAVADOC MAIN DIRECTORY",
+    "jarName": "JAR NAME BEFORE VERSION",
     "versions": {
         "1.0": [
             "6.5", "6.6"
