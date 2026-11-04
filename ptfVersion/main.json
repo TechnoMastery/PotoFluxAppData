@@ -4,11 +4,7 @@
     "versions": {
         "8.1.2": {
             "type": "Patch",
-            "hasMsi": false,
-            "hasRpm": false,
-            "hasOnlineDoc": false,
-            "hasSources": true,
-            "hasDocJar": true
+            "hasMsi": false
         },
         "8.1.1": {
             "type": "Patch",
